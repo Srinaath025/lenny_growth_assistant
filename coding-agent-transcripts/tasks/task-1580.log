@@ -1,0 +1,316 @@
+============================= test session starts =============================
+platform win32 -- Python 3.11.3, pytest-9.1.1, pluggy-1.6.0
+rootdir: D:\Projects\oogway labs
+configfile: pytest.ini
+plugins: anyio-4.15.1, asyncio-1.4.0
+asyncio: mode=Mode.AUTO, debug=False, asyncio_default_fixture_loop_scope=session, asyncio_default_test_loop_scope=session
+collected 7 items
+
+backend\tests\test_cloud_provider.py ...F.FF                             [100%]
+
+================================== FAILURES ===================================
+______________________ test_cloud_client_streaming_mock _______________________
+
+    @pytest.mark.asyncio
+    async def test_cloud_client_streaming_mock():
+        """Verifies SSE token extraction from content_block_delta events."""
+        config = AnthropicClaudeConfig(api_key="sk-***REDACTED_API_KEY***")
+        client = AnthropicClaudeClient(config=config)
+    
+        sse_lines = [
+            'event: message_start\ndata: {"type":"message_start"}\n\n',
+            'event: content_block_delta\ndata: {"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"Elena "}}\n\n',
+            'event: content_block_delta\ndata: {"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"Verna "}}\n\n',
+            'event: content_block_delta\ndata: {"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"emphasizes PLG."}}\n\n',
+            'event: message_stop\ndata: {"type":"message_stop"}\n\n',
+        ]
+    
+        async def mock_aiter_lines():
+            for line in sse_lines:
+                yield line
+    
+        # Create mock response stream
+        mock_stream_ctx = AsyncMock()
+        mock_resp = AsyncMock()
+        mock_resp.status_code = 200
+        mock_resp.aiter_lines = mock_aiter_lines
+        mock_stream_ctx.__aenter__.return_value = mock_resp
+    
+        streamed_tokens = []
+    
+        def on_delta(delta: str):
+            streamed_tokens.append(delta)
+    
+        with patch("httpx.AsyncClient.stream", return_value=mock_stream_ctx):
+            full_text = await client.run_prompt("Test prompt", on_delta=on_delta)
+    
+>           assert full_text == "Elena Verna emphasizes PLG."
+E           AssertionError: assert '' == 'Elena Verna emphasizes PLG.'
+E             
+E             - Elena Verna emphasizes PLG.
+
+backend\tests\test_cloud_provider.py:138: AssertionError
+______________________ test_growth_agent_cloud_switching ______________________
+
+    @pytest.mark.asyncio
+    async def test_growth_agent_cloud_switching():
+        """Verifies GrowthAssistantAgent dynamically routes to Cloud Claude when configured."""
+        mock_cloud = AsyncMock(spec=AnthropicClaudeClient)
+        mock_cloud.run_prompt = AsyncMock(
+            return_value="According to Elena Verna, growth teams need PMF first [citation:chunk-test-1]."
+        )
+    
+        agent = GrowthAssistantAgent(
+            model_provider="anthropic",
+            cloud_client=mock_cloud,
+        )
+        assert agent.model_provider == "anthropic"
+    
+        # Mock retrieved chunks
+        from backend.retrieval.retriever import RetrievedChunk
+>       mock_chunk = RetrievedChunk(
+            chunk_id="chunk-test-1",
+            episode_slug="elena-verna",
+            episode_title="Elena Verna on PLG",
+            guest_name="Elena Verna",
+            youtube_url="https://www.youtube.com/watch?v=mockvideo",
+            youtube_deep_link="https://www.youtube.com/watch?v=mockvideo&t=26s",
+            start_seconds=26,
+            end_seconds=120,
+            content="Hiring a growth team before product-market fit is a mistake.",
+            rank_score=0.95,
+        )
+E       TypeError: RetrievedChunk.__init__() got an unexpected keyword argument 'chunk_id'
+
+backend\tests\test_cloud_provider.py:179: TypeError
+_________________ test_api_chat_rejects_cloud_when_key_absent _________________
+
+    @pytest.mark.asyncio
+    async def test_api_chat_rejects_cloud_when_key_absent():
+        """Verifies POST /api/chat returns HTTP 400 when Cloud Claude is requested without an API key."""
+        transport = httpx.ASGITransport(app=app)
+        async with httpx.AsyncClient(transport=transport, base_url="http://testserver") as client:
+            # First ensure a session exists
+>           s_resp = await client.post("/api/sessions", json={"title": "Cloud Test Session"})
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+backend\tests\test_cloud_provider.py:209: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+backend\.venv\Lib\site-packages\httpx\_client.py:1859: in post
+    return await self.request(
+backend\.venv\Lib\site-packages\httpx\_client.py:1540: in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\httpx\_client.py:1629: in send
+    response = await self._send_handling_auth(
+backend\.venv\Lib\site-packages\httpx\_client.py:1657: in _send_handling_auth
+    response = await self._send_handling_redirects(
+backend\.venv\Lib\site-packages\httpx\_client.py:1694: in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\httpx\_client.py:1730: in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\httpx\_transports\asgi.py:170: in handle_async_request
+    await self.app(scope, receive, send)
+backend\.venv\Lib\site-packages\fastapi\applications.py:1216: in __call__
+    await super().__call__(scope, receive, send)
+backend\.venv\Lib\site-packages\starlette\applications.py:96: in __call__
+    await self.middleware_stack(scope, receive, send)
+backend\.venv\Lib\site-packages\starlette\middleware\errors.py:186: in __call__
+    raise exc
+backend\.venv\Lib\site-packages\starlette\middleware\errors.py:164: in __call__
+    await self.app(scope, receive, _send)
+backend\.venv\Lib\site-packages\fastapi\telemetry\_asgi.py:151: in __call__
+    await self.app(scope, receive, send)
+backend\.venv\Lib\site-packages\starlette\middleware\cors.py:91: in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+backend\.venv\Lib\site-packages\starlette\middleware\cors.py:149: in simple_response
+    await self.app(scope, receive, send)
+backend\.venv\Lib\site-packages\starlette\middleware\exceptions.py:63: in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+backend\.venv\Lib\site-packages\starlette\_exception_handler.py:53: in wrapped_app
+    raise exc
+backend\.venv\Lib\site-packages\starlette\_exception_handler.py:42: in wrapped_app
+    await app(scope, receive, sender)
+backend\.venv\Lib\site-packages\fastapi\middleware\asyncexitstack.py:18: in __call__
+    await self.app(scope, receive, send)
+backend\.venv\Lib\site-packages\starlette\routing.py:676: in __call__
+    await self.middleware_stack(scope, receive, send)
+backend\.venv\Lib\site-packages\fastapi\routing.py:2786: in app
+    await route.handle(scope, receive, send)
+backend\.venv\Lib\site-packages\fastapi\routing.py:1310: in handle
+    await super().handle(scope, receive, send)
+backend\.venv\Lib\site-packages\starlette\routing.py:282: in handle
+    await self.app(scope, receive, send)
+backend\.venv\Lib\site-packages\fastapi\routing.py:165: in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+backend\.venv\Lib\site-packages\starlette\_exception_handler.py:53: in wrapped_app
+    raise exc
+backend\.venv\Lib\site-packages\starlette\_exception_handler.py:42: in wrapped_app
+    await app(scope, receive, sender)
+backend\.venv\Lib\site-packages\fastapi\routing.py:151: in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\fastapi\routing.py:727: in app
+    raw_response = await run_endpoint_function(
+backend\.venv\Lib\site-packages\fastapi\routing.py:360: in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\main.py:357: in create_session
+    await db.commit()
+backend\.venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py:1000: in commit
+    await greenlet_spawn(self.sync_session.commit)
+backend\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py:201: in greenlet_spawn
+    result = context.throw(*sys.exc_info())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\orm\session.py:2035: in commit
+    trans.commit(_to_root=True)
+<string>:2: in commit
+    ???
+backend\.venv\Lib\site-packages\sqlalchemy\orm\state_changes.py:137: in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\orm\session.py:1316: in commit
+    self._prepare_impl()
+<string>:2: in _prepare_impl
+    ???
+backend\.venv\Lib\site-packages\sqlalchemy\orm\state_changes.py:137: in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\orm\session.py:1290: in _prepare_impl
+    self.session.flush()
+backend\.venv\Lib\site-packages\sqlalchemy\orm\session.py:4353: in flush
+    self._flush(objects)
+backend\.venv\Lib\site-packages\sqlalchemy\orm\session.py:4488: in _flush
+    with util.safe_reraise():
+backend\.venv\Lib\site-packages\sqlalchemy\util\langhelpers.py:122: in __exit__
+    raise exc_value.with_traceback(exc_tb)
+backend\.venv\Lib\site-packages\sqlalchemy\orm\session.py:4449: in _flush
+    flush_context.execute()
+backend\.venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py:465: in execute
+    rec.execute(self)
+backend\.venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py:641: in execute
+    util.preloaded.orm_persistence.save_obj(
+backend\.venv\Lib\site-packages\sqlalchemy\orm\persistence.py:61: in save_obj
+    for (
+backend\.venv\Lib\site-packages\sqlalchemy\orm\persistence.py:224: in _organize_states_for_save
+    for state, dict_, mapper, connection in _connections_for_states(
+backend\.venv\Lib\site-packages\sqlalchemy\orm\persistence.py:1760: in _connections_for_states
+    connection = uowtransaction.transaction.connection(base_mapper)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<string>:2: in connection
+    ???
+backend\.venv\Lib\site-packages\sqlalchemy\orm\state_changes.py:137: in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\orm\session.py:1041: in connection
+    return self._connection_for_bind(bind, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<string>:2: in _connection_for_bind
+    ???
+backend\.venv\Lib\site-packages\sqlalchemy\orm\state_changes.py:137: in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\orm\session.py:1177: in _connection_for_bind
+    conn = self._parent._connection_for_bind(
+<string>:2: in _connection_for_bind
+    ???
+backend\.venv\Lib\site-packages\sqlalchemy\orm\state_changes.py:137: in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\orm\session.py:1191: in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\engine\base.py:3295: in connect
+    return self._connection_cls(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\engine\base.py:144: in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\engine\base.py:3319: in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\pool\base.py:448: in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\pool\base.py:1290: in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\pool\base.py:712: in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\pool\impl.py:178: in _do_get
+    with util.safe_reraise():
+backend\.venv\Lib\site-packages\sqlalchemy\util\langhelpers.py:122: in __exit__
+    raise exc_value.with_traceback(exc_tb)
+backend\.venv\Lib\site-packages\sqlalchemy\pool\impl.py:176: in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\pool\base.py:389: in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\pool\base.py:674: in __init__
+    self.__connect()
+backend\.venv\Lib\site-packages\sqlalchemy\pool\base.py:900: in __connect
+    with util.safe_reraise():
+backend\.venv\Lib\site-packages\sqlalchemy\util\langhelpers.py:122: in __exit__
+    raise exc_value.with_traceback(exc_tb)
+backend\.venv\Lib\site-packages\sqlalchemy\pool\base.py:896: in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\engine\create.py:667: in connect
+    return dialect.connect(*cargs_tup, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\engine\default.py:630: in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)  # type: ignore[no-any-return]  # NOQA: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py:955: in connect
+    await_only(creator_fn(*arg, **kw)),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py:132: in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py:196: in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\asyncpg\connection.py:2329: in connect
+    return await connect_utils._connect(
+backend\.venv\Lib\site-packages\asyncpg\connect_utils.py:1017: in _connect
+    raise last_error or exceptions.TargetServerAttributeNotMatched(
+backend\.venv\Lib\site-packages\asyncpg\connect_utils.py:991: in _connect
+    conn = await _connect_addr(
+backend\.venv\Lib\site-packages\asyncpg\connect_utils.py:828: in _connect_addr
+    return await __connect_addr(params, True, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\asyncpg\connect_utils.py:873: in __connect_addr
+    tr, pr = await connector
+             ^^^^^^^^^^^^^^^
+backend\.venv\Lib\site-packages\asyncpg\connect_utils.py:744: in _create_ssl_connection
+    tr, pr = await loop.create_connection(
+C:\Users/developer/AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py:1085: in create_connection
+    raise exceptions[0]
+C:\Users/developer/AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py:1069: in create_connection
+    sock = await self._connect_sock(
+C:\Users/developer/AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py:973: in _connect_sock
+    await self.sock_connect(sock, address)
+C:\Users/developer/AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py:726: in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users/developer/AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py:846: in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+trans = 0, key = 0, ov = <_overlapped.Overlapped object at 0x000001CDE126B1B0>
+
+    def finish_connect(trans, key, ov):
+>       ov.getresult()
+E       ConnectionRefusedError: [WinError 1225] The remote computer refused the network connection
+
+C:\Users/developer/AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py:633: ConnectionRefusedError
+=========================== short test summary info ===========================
+FAILED backend/tests/test_cloud_provider.py::test_cloud_client_streaming_mock
+FAILED backend/tests/test_cloud_provider.py::test_growth_agent_cloud_switching
+FAILED backend/tests/test_cloud_provider.py::test_api_chat_rejects_cloud_when_key_absent
+========================= 3 failed, 4 passed in 7.57s =========================

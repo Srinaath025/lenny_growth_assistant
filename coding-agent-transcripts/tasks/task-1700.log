@@ -1,0 +1,13 @@
+
+> lenny-growth-assistant-frontend@1.0.0 build
+> tsc && vite build
+
+vite v6.4.4 building for production...
+transforming...
+✓ 1600 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   1.35 kB │ gzip:  0.76 kB
+dist/assets/index-wi4R4kTK.css    5.59 kB │ gzip:  1.79 kB
+dist/assets/index-DVxlbouN.js   283.82 kB │ gzip: 84.29 kB
+✓ built in 7.72s

@@ -1,0 +1,43 @@
+======================================================================
+QUERY: What does Elena Verna say about hiring a growth team before product-market fit?
+======================================================================
+
+[RETRIEVAL] Found 2 chunks:
+  Chunk 1:
+    ID: 4bb1e8319053beb0330c23720bf4ddf2
+    Episode Slug: elena-verna
+    Episode Title: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
+    Guest Name: Elena Verna
+    YouTube URL: https://www.youtube.com/watch?v=IHwS2By9UKM
+    Video ID: IHwS2By9UKM
+    Start Timestamp: 00:09:17 (557s)
+    Content preview: Elena Verna (00:09:17): We live in tech, there's always lots of startups. Startups are obviously looking to grow and there is a huge misconception in the shield...
+  Chunk 2:
+    ID: bc97945c10becb4b41b5a101f77840bf
+    Episode Slug: elena-verna
+    Episode Title: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
+    Guest Name: Elena Verna
+    YouTube URL: https://www.youtube.com/watch?v=IHwS2By9UKM
+    Video ID: IHwS2By9UKM
+    Start Timestamp: 00:00:00 (0s)
+    Content preview: Elena Verna (00:00:00): Growth is a fairly new field. You have a lot of renowned interest in growth hacks, like what is the sure things to get growth. In the ag...
+
+[AGENT] Running ask()...
+
+[RESULT] Completed in 121.73s
+Is Abstention: False
+Answer:
+[EVIDENCE CHUNK id="bc97945c10becb4b41b5a101f77840bf" guest="Elena Verna" episode=10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey) timestamp="00:10:09"]
+ 
+Elena Verna (00:10:09): That just doesn't happen. I see that mistake happening a lot. I really believe that the founder led growth is not being popularized enough that you do not need growth teams until you actually can start running experiments on your user base, which means that you have volume of users that you can learn from and optimize and innovate on, and that first wave of growth has to be founder led.
+
+[EVIDENCE CHUNK id="bc97945c10becb4b41b5a101f77840bf" guest="Elena Verna" episode=10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey) timestamp="00:10:35"]
+
+Citations Count: 1
+  Citation 1:
+    Chunk ID: 4bb1e8319053beb0330c23720bf4ddf2
+    Episode Title: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
+    Guest Name: Elena Verna
+    Turn Timestamp: 00:10:09 (609s)
+    Source URL: https://www.youtube.com/watch?v=IHwS2By9UKM&t=609s
+    Snippet: Elena Verna (00:10:09): That just doesn't happen. I see that mistake happening a lot. I really believe that the founder led growth is not being popularized enough that you do not need growth teams until y...

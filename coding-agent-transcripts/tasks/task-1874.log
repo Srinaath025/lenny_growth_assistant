@@ -1,0 +1,12 @@
+2026-10-10 10:16:22,037 [INFO] ingestion.pipeline: Starting ingestion pipeline from D:\Projects\oogway labs\data\transcripts (limit=None, sync_online=False, episode_slug=None)
+2026-10-10 10:16:22,279 [INFO] ingestion.pipeline: Found 303 transcript files to process.
+2026-10-10 10:16:58,704 [INFO] ingestion.pipeline: Ingestion completed in 36.67s: 303 episodes ingested, 8947 chunks upserted. Total chunks in database: 8947
+
+--- Ingestion Summary ---
+  files_inspected: 303
+  episodes_ingested: 303
+  chunks_upserted: 8947
+  files_skipped: 0
+  errors: 0
+  duration_seconds: 36.67
+  total_chunks_in_db: 8947

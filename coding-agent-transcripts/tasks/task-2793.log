@@ -1,0 +1,11 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-10-10T11:59:38+05:30
+Prompt: Check status of task-2733 essay generation completion
+Early Termination: 27bffd55-9336-4815-8b29-47ff7112850f/task-2733
+
+[2026-10-10T11:58:48+05:30] Still waiting. Remaining time: 50s
+[2026-10-10T11:58:58+05:30] Still waiting. Remaining time: 40s
+[2026-10-10T11:59:08+05:30] Still waiting. Remaining time: 30s
+[2026-10-10T11:59:18+05:30] Still waiting. Remaining time: 20s
+[2026-10-10T11:59:28+05:30] Still waiting. Remaining time: 10s
+[2026-10-10T11:59:38+05:30] Timer fired.

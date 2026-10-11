@@ -1,0 +1,31 @@
+============================= test session starts =============================
+platform win32 -- Python 3.11.3, pytest-9.1.1, pluggy-1.6.0 -- D:\Projects\oogway labs\backend\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: D:\Projects\oogway labs
+configfile: pytest.ini
+plugins: asyncio-1.4.0
+asyncio: mode=Mode.AUTO, debug=False, asyncio_default_fixture_loop_scope=session, asyncio_default_test_loop_scope=session
+collecting ... collected 7 items
+
+backend/tests/test_essay_skill.py::test_count_words FAILED               [ 14%]
+backend/tests/test_essay_skill.py::test_validate_essay_structure_detects_all_4a_sections PASSED [ 28%]
+backend/tests/test_essay_skill.py::test_validate_essay_structure_fails_when_section_missing PASSED [ 42%]
+backend/tests/test_essay_skill.py::test_word_count_boundaries PASSED     [ 57%]
+backend/tests/test_essay_skill.py::test_build_ship30_essay_prompt PASSED [ 71%]
+backend/tests/test_essay_skill.py::test_generate_html_artifact_renders_csp_and_obsidian_theme PASSED [ 85%]
+backend/tests/test_essay_skill.py::test_essay_engine_generate_and_database_persistence PASSED [100%]
+
+================================== FAILURES ===================================
+______________________________ test_count_words _______________________________
+
+    def test_count_words():
+        """Verify word counter accurately counts words and strips markdown punctuation."""
+        text = "# Header 1\n\nThis is a **test** of the [link](http://example.com) counter."
+>       assert count_words(text) == 10
+E       AssertionError: assert 11 == 10
+E        +  where 11 = count_words('# Header 1\n\nThis is a **test** of the [link](http://example.com) counter.')
+
+backend\tests\test_essay_skill.py:108: AssertionError
+=========================== short test summary info ===========================
+FAILED backend/tests/test_essay_skill.py::test_count_words - AssertionError: ...
+========================= 1 failed, 6 passed in 1.06s =========================

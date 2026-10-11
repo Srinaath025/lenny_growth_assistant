@@ -1,0 +1,9 @@
+is_abstention: False
+raw_model_response: "Citing relevant evidence, Elena Verna states that there is a huge misconception in the field that in order to get growth going, you need a growth team. She emphasizes that figuring out your product-market fit and how to distribute it is not something that can be outsourced to someone."
+
+[Evidence Chunk: [citation:bc97945c10becb4b41b5a101f77840bf]]
+answer: Citing relevant evidence, Elena Verna states that there is a huge misconception in the field that in order to get growth going, you need a growth team. She emphasizes that figuring out your product-market fit and how to distribute it is not something that can be outsourced to someone.
+
+[Evidence Chunk: [citation:bc97945c10becb4b41b5a101f77840bf]]
+citations: [Citation(chunk_id='bc97945c10becb4b41b5a101f77840bf', episode_title='10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)', guest_name='Elena Verna', timestamp='00:00:26', start_seconds=26, source_url='https://www.youtube.com/watch?v=IHwS2By9UKM&t=26s', snippet="Elena Verna (00:00:26): We live in tech. There's always lots of startups and startups obviously looking to grow. There is a huge misconception in the field that in order to get growth going, you need a gr...")]
+invalid_citations: []

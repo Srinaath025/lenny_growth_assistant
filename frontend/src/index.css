@@ -1,0 +1,369 @@
+/* ==========================================================================
+   The Lenny Growth Assistant - Midnight Plum × Electric Lime Design System
+   Color Palette:
+     - Primary Accent: #D7FF5F (Electric Lime)
+     - Main Background: #111018 (Deep Midnight Plum)
+     - Cards & Elevated Panels: #1B1924 (Elevated Plum)
+     - Primary Text: #F5F2EA (Warm Ivory)
+     - Secondary Text: #A6A1B2 (Muted Plum Grey)
+     - Borders: #35313F (Subtle Plum Border)
+   ========================================================================== */
+
+:root {
+  /* Midnight Plum Dark Canvas */
+  --bg-primary: #111018;
+  --bg-secondary: #171520;
+  --bg-tertiary: #1B1924;
+  --bg-hover: #262232;
+  --bg-card: #1B1924;
+  --bg-card-elevated: #221F2E;
+  
+  /* Borders & Dividers */
+  --border-subtle: #35313F;
+  --border-prominent: #4A4557;
+  --border-active: #D7FF5F;
+
+  /* Typography Colors */
+  --text-primary: #F5F2EA;
+  --text-secondary: #A6A1B2;
+  --text-muted: #7E788B;
+  --text-disabled: #555060;
+
+  /* Primary Accent: Electric Lime */
+  --accent-lime: #D7FF5F;
+  --accent-lime-hover: #C5F545;
+  --accent-lime-glow: rgba(215, 255, 95, 0.15);
+  --accent-lime-text: #111018;
+
+  /* Semantic Aliases */
+  --accent-amber: #D7FF5F;
+  --accent-amber-glow: rgba(215, 255, 95, 0.15);
+  --accent-amber-hover: #C5F545;
+
+  --accent-blue: #7DD3FC;
+  --accent-blue-glow: rgba(125, 211, 252, 0.14);
+  --accent-blue-hover: #38BDF8;
+
+  --accent-emerald: #4ADE80;
+  --accent-emerald-glow: rgba(74, 222, 128, 0.16);
+
+  --accent-rose: #FB7185;
+  --accent-rose-glow: rgba(251, 113, 133, 0.14);
+
+  /* Font Families */
+  --font-serif: 'Newsreader', Georgia, serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', Menlo, monospace;
+
+  /* Structural Dimensions */
+  --sidebar-width: 280px;
+  --artifact-drawer-width: 540px;
+  --header-height: 56px;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 18px;
+  
+  /* Transitions */
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Scrollbar Customization */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-prominent);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* Animations */
+@keyframes pulse-dot {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.4;
+    transform: scale(0.9);
+  }
+}
+
+@keyframes cursor-blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideInRight {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+
+.animate-pulse-dot {
+  animation: pulse-dot 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+.cursor-blinking {
+  display: inline-block;
+  width: 7px;
+  height: 15px;
+  background-color: var(--accent-lime);
+  margin-left: 3px;
+  vertical-align: middle;
+  border-radius: 1px;
+  animation: cursor-blink 0.9s infinite;
+}
+
+/* App Main Grid Layout */
+.app-layout {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background-color: var(--bg-primary);
+}
+
+.app-header {
+  height: var(--header-height);
+  min-height: var(--header-height);
+  border-bottom: 1px solid var(--border-subtle);
+  background: rgba(17, 16, 24, 0.88);
+  backdrop-filter: blur(14px);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16px;
+  z-index: 30;
+}
+
+.app-body {
+  display: flex;
+  flex: 1;
+  height: calc(100vh - var(--header-height));
+  overflow: hidden;
+  position: relative;
+}
+
+/* Sidebar Pane */
+.sidebar-pane {
+  width: var(--sidebar-width);
+  min-width: var(--sidebar-width);
+  background-color: var(--bg-secondary);
+  border-right: 1px solid var(--border-subtle);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+  transition: transform var(--transition-normal);
+  z-index: 20;
+}
+
+/* Chat Center Stage */
+.chat-stage {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+  background-color: var(--bg-primary);
+  position: relative;
+}
+
+/* Artifact Drawer */
+.artifact-drawer {
+  width: var(--artifact-drawer-width);
+  min-width: var(--artifact-drawer-width);
+  background-color: var(--bg-secondary);
+  border-left: 1px solid var(--border-subtle);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+  z-index: 25;
+  box-shadow: -8px 0 30px rgba(0, 0, 0, 0.55);
+  animation: slideInRight var(--transition-normal);
+}
+
+/* Common Card Styles */
+.card-base {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 12px 14px;
+  transition: all var(--transition-fast);
+}
+
+.card-base:hover {
+  border-color: var(--border-prominent);
+}
+
+/* Button Base */
+.btn-primary {
+  background: var(--accent-lime);
+  color: #111018;
+  font-weight: 600;
+  border: none;
+  border-radius: var(--radius-sm);
+  padding: 8px 14px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  transition: background var(--transition-fast), transform 0.1s ease, box-shadow var(--transition-fast);
+}
+
+.btn-primary:hover:not(:disabled) {
+  background: var(--accent-lime-hover);
+  box-shadow: 0 0 16px rgba(215, 255, 95, 0.3);
+  transform: translateY(-1px);
+}
+
+.btn-primary:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.btn-secondary {
+  background: var(--bg-tertiary);
+  color: var(--text-primary);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-sm);
+  padding: 7px 12px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  transition: all var(--transition-fast);
+}
+
+.btn-secondary:hover:not(:disabled) {
+  background: var(--bg-hover);
+  border-color: var(--border-prominent);
+  color: #FFFFFF;
+}
+
+.btn-secondary:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.btn-ghost {
+  background: transparent;
+  color: var(--text-secondary);
+  border: none;
+  border-radius: var(--radius-sm);
+  padding: 6px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--transition-fast);
+}
+
+.btn-ghost:hover:not(:disabled) {
+  color: var(--text-primary);
+  background: var(--bg-hover);
+}
+
+/* Editorial Serif for Long-Form Content */
+.prose-editorial {
+  font-family: var(--font-serif);
+  font-size: 16px;
+  line-height: 1.7;
+  color: #F5F2EA;
+}
+
+.prose-editorial h1,
+.prose-editorial h2,
+.prose-editorial h3 {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  color: #FFFFFF;
+  margin-top: 1.4em;
+  margin-bottom: 0.6em;
+}
+
+.prose-editorial p {
+  margin-bottom: 1em;
+}
+
+.prose-editorial strong {
+  font-weight: 600;
+  color: #FFFFFF;
+}
+
+.prose-editorial ul,
+.prose-editorial ol {
+  margin-left: 1.4em;
+  margin-bottom: 1em;
+}
+
+.prose-editorial li {
+  margin-bottom: 0.4em;
+}
+
+/* Responsive Overrides */
+@media (max-width: 1200px) {
+  .artifact-drawer {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 500px;
+  }
+}
+
+@media (max-width: 768px) {
+  .sidebar-pane {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 280px;
+    transform: translateX(-100%);
+  }
+
+  .sidebar-pane.open {
+    transform: translateX(0);
+  }
+
+  .artifact-drawer {
+    width: 100%;
+    min-width: 100%;
+  }
+}

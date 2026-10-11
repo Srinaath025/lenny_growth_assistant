@@ -1,0 +1,8 @@
+Where-Object : The term '.LocalPort' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:38
++ ... Connection -State Listen | Where-Object { .LocalPort -in 5432, 5433 }
++                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.LocalPort:String) [Where-Object], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException,Microsoft.PowerShell.Commands.WhereObjectCommand
+ 

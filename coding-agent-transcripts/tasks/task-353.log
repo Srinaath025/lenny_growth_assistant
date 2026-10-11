@@ -1,0 +1,47 @@
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 9700
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: *
+Timing-Allow-Origin: *
+Cache-Control: public, max-age=604800, s-maxage=43200
+Cross-Origin-Resource-Policy: cross-origin
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Type: text/markdown; charset=utf-8
+X-JSD-Version: main
+X-JSD-Version-Type: branch
+ETag: W/"25e4-Qx4Gp3aDziWuxZEEd+H21hI5+wo"
+Accept-Ranges: bytes
+Age: 0
+Date: Fri, 09 Oct 2026 06:39:58 GMT
+X-Served-By: cache-fra-eddf8230028-FRA, cache-del-vibw2260028-DEL
+X-Cache: MISS, MISS
+Vary: Accept-Encoding
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/1.1 200 OK
+Date: Fri, 09 Oct 2026 06:39:59 GMT
+Content-Type: text/markdown; charset=utf-8
+Connection: keep-alive
+access-control-allow-origin: *
+access-control-expose-headers: *
+timing-allow-origin: *
+Cache-Control: public, max-age=604800, s-maxage=43200
+cross-origin-resource-policy: cross-origin
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-jsd-version: main
+x-jsd-version-type: branch
+etag: W/"25e4-Qx4Gp3aDziWuxZEEd+H21hI5+wo"
+Nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XDZeFaEcsFPNQNzgdC752aWYyK83IYn3ZnKwcf6VdZWLYg6nhSRdibh6nu41W2sp0EUuUjgFlxqlqUZutsrDRsp4PNm%2FXnnIryOrZg4JDje%2F%2BtvgsNimWYIuHxJ%2FOScocb0%3D"}]}
+x-served-by: cache-fra-eddf8230031-FRA, cache-bom-vanm7210073-BOM
+x-cache: MISS, MISS
+vary: Accept-Encoding
+alt-svc: h3=":443"; ma=86400
+Age: 7063
+cf-cache-status: HIT
+Server: cloudflare
+CF-RAY: a47b642c2a267f62-MAA
+

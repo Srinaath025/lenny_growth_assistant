@@ -1,0 +1,32 @@
+======================================================================
+QUERY: What does Elena Verna say about hiring a growth team before product-market fit?
+======================================================================
+
+[RETRIEVAL] Found 2 chunks:
+  Chunk 1:
+    ID: bc97945c10becb4b41b5a101f77840bf
+    Episode Slug: elena-verna
+    Episode Title: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
+    Guest Name: Elena Verna
+    YouTube URL: https://www.youtube.com/watch?v=IHwS2By9UKM
+    Video ID: IHwS2By9UKM
+    Start Timestamp: 00:00:00 (0s)
+    Content preview: Elena Verna (00:00:00): Growth is a fairly new field. You have a lot of renowned interest in growth hacks, like what is the sure things to get growth. In the ag...
+  Chunk 2:
+    ID: 4bb1e8319053beb0330c23720bf4ddf2
+    Episode Slug: elena-verna
+    Episode Title: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
+    Guest Name: Elena Verna
+    YouTube URL: https://www.youtube.com/watch?v=IHwS2By9UKM
+    Video ID: IHwS2By9UKM
+    Start Timestamp: 00:09:17 (557s)
+    Content preview: Elena Verna (00:09:17): We live in tech, there's always lots of startups. Startups are obviously looking to grow and there is a huge misconception in the shield...
+
+[AGENT] Running ask()...
+
+[RESULT] Completed in 7.24s
+Is Abstention: True
+Answer:
+I do not have sufficient evidence in Lenny's Podcast transcripts to answer this question.
+
+Citations Count: 0

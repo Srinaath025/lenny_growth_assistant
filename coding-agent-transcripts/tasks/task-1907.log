@@ -1,0 +1,33 @@
+============================= test session starts =============================
+platform win32 -- Python 3.11.3, pytest-9.1.1, pluggy-1.6.0
+rootdir: D:\Projects\oogway labs
+configfile: pytest.ini
+plugins: anyio-4.15.1, asyncio-1.4.0
+asyncio: mode=Mode.AUTO, debug=False, asyncio_default_fixture_loop_scope=session, asyncio_default_test_loop_scope=session
+collected 1 item
+
+backend\tests\test_agent_live_integration.py F                           [100%]
+
+================================== FAILURES ===================================
+_______________ test_live_agent_grounded_answer_and_abstention ________________
+
+    @pytest.mark.asyncio
+    async def test_live_agent_grounded_answer_and_abstention():
+        """Verify live end-to-end grounded retrieval, citation verification, and abstention."""
+        if not is_ollama_available():
+            pytest.skip("Ollama is offline or unreachable at http://localhost:11434")
+    
+        agent = GrowthAssistantAgent(retriever_limit=2)
+    
+        # 1. Grounded Question: Elena Verna on hiring a growth team before PMF
+        grounded_query = "What does Elena Verna say about hiring a growth team before product-market fit?"
+        ans1 = await agent.ask(grounded_query)
+    
+>       assert not ans1.is_abstention
+E       assert not True
+E        +  where True = GroundedAnswer(query='What does Elena Verna say about hiring a growth team before product-market fit?', answer="I do n...lies.", rank=0.01038478646427393)], citations=[], raw_model_response='', invalid_citations=[], duration_seconds=122.34).is_abstention
+
+backend\tests\test_agent_live_integration.py:34: AssertionError
+=========================== short test summary info ===========================
+FAILED backend/tests/test_agent_live_integration.py::test_live_agent_grounded_answer_and_abstention
+======================== 1 failed in 126.17s (0:02:06) ========================

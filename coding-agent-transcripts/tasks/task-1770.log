@@ -1,0 +1,3 @@
+Network error downloading gustav-s�derstr�m: 'ascii' codec can't encode character '\xf6' in position 65: ordinal not in range(128)
+Starting sync for 303 episodes...
+Completed 302 episodes, failed 1 in 21.65s

@@ -1,0 +1,2616 @@
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ProcessName : The term '.ProcessName' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:29
++ Get-Process | Where-Object {.ProcessName -match 'node|ollama|python'} ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ProcessName:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 

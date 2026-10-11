@@ -1,0 +1,8 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-10-10T11:12:35+05:30
+Prompt: Check on pytest live integration test status
+Early Termination: 27bffd55-9336-4815-8b29-47ff7112850f/task-2340
+
+[2026-10-10T11:11:45+05:30] Still waiting. Remaining time: 50s
+[2026-10-10T11:11:55+05:30] Still waiting. Remaining time: 40s
+[2026-10-10T11:11:59+05:30] Timer cancelled: agent received a message during wait.

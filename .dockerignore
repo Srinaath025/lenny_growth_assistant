@@ -1,0 +1,8 @@
+**/node_modules
+**/.venv
+**/__pycache__
+**/.pytest_cache
+.git
+.env
+frontend/dist
+coding-agent-transcripts

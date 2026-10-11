@@ -1,0 +1,17 @@
+ollama : The term 'ollama' is not recognized as the name of a cmdlet, function, script file, or operable program. 
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ ollama --version; where.exe ollama; Get-Process -Name "*ollama*" -Err ...
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (ollama:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+INFO: Could not find files for the given pattern(s).
+Invoke-RestMethod : Unable to connect to the remote server
+At line:1 char:97
++ ... lyContinue; Invoke-RestMethod -Uri "http://localhost:11434/api/tags"  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+ 

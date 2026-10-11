@@ -1,0 +1,41 @@
+======================================================================
+QUERY: What does Elena Verna say about hiring a growth team before product-market fit?
+======================================================================
+
+[RETRIEVAL] Found 2 chunks:
+  Chunk 1:
+    ID: 69cc26caf035b39b9341b7bf60fa28a4
+    Episode Slug: elena-verna
+    Episode Title: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
+    Guest Name: Elena Verna
+    YouTube URL: https://www.youtube.com/watch?v=IHwS2By9UKM
+    Video ID: IHwS2By9UKM
+    Start Timestamp: 00:12:06 (726s)
+    Content preview: Elena Verna (00:12:06): Yes. And honestly, the longer you wait, the better it is because that way your entire company will be trained to be responsible for grow...
+  Chunk 2:
+    ID: ac9e9a8f2ee8e96008157518b0ea6915
+    Episode Slug: elena-verna
+    Episode Title: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
+    Guest Name: Elena Verna
+    YouTube URL: https://www.youtube.com/watch?v=IHwS2By9UKM
+    Video ID: IHwS2By9UKM
+    Start Timestamp: 00:14:48 (888s)
+    Content preview: Lenny Rachitsky (00:14:48): We talked deeply about that specific topic in our first conversation, just for folks, want to go deeper there. There's lot there.
+
+E...
+
+[AGENT] Running ask()...
+
+[RESULT] Completed in 124.59s
+Is Abstention: False
+Answer:
+[ citation:69cc26caf035b39b9341b7bf60fa28a4 ] According to Elena Verna, it depends on how you're going to collect the monies. If your money collection is going to happen through sales team primarily, then you absolutely should be hiring sales way before growth. Unless you're starting to do self-serve revenue, in which case, if product sells itself through potentially freemium acquisition or trial acquisition, or you've got product-led activation, monetization, then hire a growth person first before sales.
+
+Citations Count: 1
+  Citation 1:
+    Chunk ID: 69cc26caf035b39b9341b7bf60fa28a4
+    Episode Title: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
+    Guest Name: Elena Verna
+    Turn Timestamp: 00:12:42 (762s)
+    Source URL: https://www.youtube.com/watch?v=IHwS2By9UKM&t=762s
+    Snippet: Elena Verna (00:12:42): It depends on how you're actually going to collect the monies. If your money collection is going to happen through sales team primarily, then you absolutely should be hiring sales...

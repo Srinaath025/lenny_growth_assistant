@@ -1,0 +1,56 @@
+============================= test session starts =============================
+platform win32 -- Python 3.11.3, pytest-9.1.1, pluggy-1.6.0 -- D:\Projects\oogway labs\backend\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: D:\Projects\oogway labs
+configfile: pytest.ini
+plugins: asyncio-1.4.0
+asyncio: mode=Mode.AUTO, debug=False, asyncio_default_fixture_loop_scope=session, asyncio_default_test_loop_scope=session
+collecting ... collected 45 items
+
+backend/tests/test_agent.py::test_prompt_construction_untrusted_delimiters PASSED [  2%]
+backend/tests/test_agent.py::test_citation_validator_accepts_valid_citations PASSED [  4%]
+backend/tests/test_agent.py::test_citation_validator_resolves_turn_level_timestamp PASSED [  6%]
+backend/tests/test_agent.py::test_citation_validator_sanitizes_unquoted_paraphrases PASSED [  8%]
+backend/tests/test_agent.py::test_citation_validator_rejects_unretrieved_chunk_ids PASSED [ 11%]
+backend/tests/test_agent.py::test_citation_validator_detects_abstention PASSED [ 13%]
+backend/tests/test_agent.py::test_citation_validator_empty_chunks_forces_abstention PASSED [ 15%]
+backend/tests/test_agent.py::test_orchestrator_abstains_immediately_on_empty_retrieval PASSED [ 17%]
+backend/tests/test_agent.py::test_orchestrator_successful_grounded_answer PASSED [ 20%]
+backend/tests/test_agent.py::test_orchestrator_handles_rpc_failure PASSED [ 22%]
+backend/tests/test_chunker.py::test_deterministic_chunk_id PASSED        [ 24%]
+backend/tests/test_chunker.py::test_chunking_boundaries_and_metadata PASSED [ 26%]
+backend/tests/test_chunker.py::test_chunk_long_single_monologue PASSED   [ 28%]
+backend/tests/test_chunker.py::test_chunk_empty_turns PASSED             [ 31%]
+backend/tests/test_db_connection.py::test_dependency_imports PASSED      [ 33%]
+backend/tests/test_db_connection.py::test_asyncpg_direct_connection PASSED [ 35%]
+backend/tests/test_db_connection.py::test_sqlalchemy_async_engine PASSED [ 37%]
+backend/tests/test_essay_skill.py::test_count_words PASSED               [ 40%]
+backend/tests/test_essay_skill.py::test_validate_essay_structure_detects_all_4a_sections PASSED [ 42%]
+backend/tests/test_essay_skill.py::test_validate_essay_structure_fails_when_section_missing PASSED [ 44%]
+backend/tests/test_essay_skill.py::test_word_count_boundaries PASSED     [ 46%]
+backend/tests/test_essay_skill.py::test_build_ship30_essay_prompt PASSED [ 48%]
+backend/tests/test_essay_skill.py::test_generate_html_artifact_renders_csp_and_obsidian_theme PASSED [ 51%]
+backend/tests/test_essay_skill.py::test_essay_engine_generate_and_database_persistence PASSED [ 53%]
+backend/tests/test_ingestion_and_search.py::test_schema_and_gin_index_exist PASSED [ 55%]
+backend/tests/test_ingestion_and_search.py::test_repeatable_idempotent_ingestion PASSED [ 57%]
+backend/tests/test_ingestion_and_search.py::test_postgresql_fulltext_search_retrieval PASSED [ 60%]
+backend/tests/test_ingestion_and_search.py::test_empty_and_invalid_file_handling PASSED [ 62%]
+backend/tests/test_ingestion_and_search.py::test_database_error_handling_and_rollback PASSED [ 64%]
+backend/tests/test_parser.py::test_parse_timestamp_to_seconds PASSED     [ 66%]
+backend/tests/test_parser.py::test_extract_video_id PASSED               [ 68%]
+backend/tests/test_parser.py::test_parse_standard_transcript PASSED      [ 71%]
+backend/tests/test_parser.py::test_parse_mm_ss_format PASSED             [ 73%]
+backend/tests/test_parser.py::test_parse_malformed_yaml PASSED           [ 75%]
+backend/tests/test_parser.py::test_parse_no_frontmatter PASSED           [ 77%]
+backend/tests/test_parser.py::test_parse_empty_content PASSED            [ 80%]
+backend/tests/test_pi_client.py::test_pi_client_config_defaults PASSED   [ 82%]
+backend/tests/test_pi_client.py::test_pi_client_env_isolation PASSED     [ 84%]
+backend/tests/test_pi_client.py::test_pi_client_command_safety_flags PASSED [ 86%]
+backend/tests/test_pi_client.py::test_pi_client_raises_when_binary_missing PASSED [ 88%]
+backend/tests/test_retrieval.py::test_build_youtube_deep_link PASSED     [ 91%]
+backend/tests/test_retrieval.py::test_sanitize_fts_query PASSED          [ 93%]
+backend/tests/test_retrieval.py::test_retrieve_empty_and_short_queries PASSED [ 95%]
+backend/tests/test_retrieval.py::test_retrieve_relevant_chunks_real_db PASSED [ 97%]
+backend/tests/test_retrieval.py::test_retrieve_nonexistent_query PASSED  [100%]
+
+============================= 45 passed in 1.72s ==============================

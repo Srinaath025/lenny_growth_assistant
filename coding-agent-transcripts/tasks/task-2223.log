@@ -1,0 +1,6 @@
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:agent.orchestrator:Received query: 'What are the key lessons from Lenny's Podcast transcripts about product management?' [provider=ollama]
+INFO:agent.pi_client:Spawning Pi RPC subprocess: node D:\Projects\oogway labs\proof-of-concept\node_modules\@earendil-works\pi-coding-agent\dist\bundle\cli.js --mode rpc (provider=ollama, model=llama3.2:3b)
+INFO:agent.orchestrator:Answer generated in 33.7s: abstention=True, citations=0, invalid_citations=0
+is_abstention: True
+answer: "I do not have sufficient evidence in Lenny's Podcast transcripts to answer this question."

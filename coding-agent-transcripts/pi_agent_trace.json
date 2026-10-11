@@ -1,0 +1,450 @@
+{
+  "status": "SUCCESS",
+  "duration_seconds": 33.75,
+  "prompt_sent": "Reply with 'Hello from Pi Coding Agent and Ollama!' and nothing else.",
+  "model_selected": "ollama/llama3.2:3b",
+  "response_received": "Hello from Pi Coding Agent and Ollama!",
+  "events_count": 22,
+  "events": [
+    {
+      "id": "poc-req-001",
+      "type": "response",
+      "command": "prompt",
+      "success": true,
+      "data": {
+        "disposition": "started"
+      }
+    },
+    {
+      "type": "agent_start"
+    },
+    {
+      "type": "turn_start"
+    },
+    {
+      "type": "message_start",
+      "message": {
+        "role": "system",
+        "content": "",
+        "sections": {
+          "preamble": "You are an expert coding assistant operating inside pi, a coding agent harness. You help users by reading files, executing commands, editing code, and writing new files.",
+          "tools": "<tools>\n(none)\n\nIn addition to the tools above, you may have access to other custom tools depending on the project.\n</tools>",
+          "rules": "<rules>\n- Be concise in your responses\n- Show file paths clearly when working with files\n</rules>",
+          "docs": "<docs>\nPi documentation (read only when the user asks about pi itself, its SDK, extensions, themes, skills, or TUI):\n- Main documentation: D:\\Projects\\oogway labs\\proof-of-concept\\node_modules\\@earendil-works\\pi-coding-agent\\README.md\n- Additional docs: D:\\Projects\\oogway labs\\proof-of-concept\\node_modules\\@earendil-works\\pi-coding-agent\\docs\n- Examples: D:\\Projects\\oogway labs\\proof-of-concept\\node_modules\\@earendil-works\\pi-coding-agent\\examples (extensions, custom tools, SDK)\n- When reading pi docs or examples, resolve docs/... under Additional docs and examples/... under Examples, not the current working directory\n- When asked about: extensions (docs/extensions.md, examples/extensions/), themes (docs/themes.md), skills (docs/skills.md), prompt templates (docs/prompt-templates.md), TUI components (docs/tui.md), keybindings (docs/keybindings.md), SDK integrations (docs/sdk.md), custom providers (docs/custom-provider.md), adding models (docs/models.md), pi packages (docs/packages.md), environment variables (docs/environment-variables.md), MCP servers (docs/mcp.md), codemode scripts and non-LLM models such as classifiers and image models (docs/codemode.md)\n- When working on pi topics, read the docs and examples, and follow .md cross-references before implementing\n- Always read pi .md files completely and follow links to related docs (e.g., tui.md for TUI API details)\n</docs>",
+          "cwd": "<cwd>\nD:/Projects/oogway labs/proof-of-concept\n</cwd>"
+        },
+        "timestamp": 1791526931672
+      }
+    },
+    {
+      "type": "message_end",
+      "message": {
+        "role": "system",
+        "content": "",
+        "sections": {
+          "preamble": "You are an expert coding assistant operating inside pi, a coding agent harness. You help users by reading files, executing commands, editing code, and writing new files.",
+          "tools": "<tools>\n(none)\n\nIn addition to the tools above, you may have access to other custom tools depending on the project.\n</tools>",
+          "rules": "<rules>\n- Be concise in your responses\n- Show file paths clearly when working with files\n</rules>",
+          "docs": "<docs>\nPi documentation (read only when the user asks about pi itself, its SDK, extensions, themes, skills, or TUI):\n- Main documentation: D:\\Projects\\oogway labs\\proof-of-concept\\node_modules\\@earendil-works\\pi-coding-agent\\README.md\n- Additional docs: D:\\Projects\\oogway labs\\proof-of-concept\\node_modules\\@earendil-works\\pi-coding-agent\\docs\n- Examples: D:\\Projects\\oogway labs\\proof-of-concept\\node_modules\\@earendil-works\\pi-coding-agent\\examples (extensions, custom tools, SDK)\n- When reading pi docs or examples, resolve docs/... under Additional docs and examples/... under Examples, not the current working directory\n- When asked about: extensions (docs/extensions.md, examples/extensions/), themes (docs/themes.md), skills (docs/skills.md), prompt templates (docs/prompt-templates.md), TUI components (docs/tui.md), keybindings (docs/keybindings.md), SDK integrations (docs/sdk.md), custom providers (docs/custom-provider.md), adding models (docs/models.md), pi packages (docs/packages.md), environment variables (docs/environment-variables.md), MCP servers (docs/mcp.md), codemode scripts and non-LLM models such as classifiers and image models (docs/codemode.md)\n- When working on pi topics, read the docs and examples, and follow .md cross-references before implementing\n- Always read pi .md files completely and follow links to related docs (e.g., tui.md for TUI API details)\n</docs>",
+          "cwd": "<cwd>\nD:/Projects/oogway labs/proof-of-concept\n</cwd>"
+        },
+        "timestamp": 1791526931672
+      }
+    },
+    {
+      "type": "message_start",
+      "message": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Reply with 'Hello from Pi Coding Agent and Ollama!' and nothing else."
+          }
+        ],
+        "timestamp": 1791526931671
+      }
+    },
+    {
+      "type": "message_end",
+      "message": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Reply with 'Hello from Pi Coding Agent and Ollama!' and nothing else."
+          }
+        ],
+        "timestamp": 1791526931671
+      }
+    },
+    {
+      "type": "message_start",
+      "message": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "Hello"
+          }
+        ],
+        "api": "openai-completions",
+        "provider": "ollama",
+        "model": "llama3.2:3b",
+        "usage": {
+          "input": 0,
+          "output": 0,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "totalTokens": 0,
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0,
+            "total": 0
+          }
+        },
+        "stopReason": "pending",
+        "timestamp": 1791526931734
+      }
+    },
+    {
+      "type": "message_update",
+      "usage": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "totalTokens": 0,
+        "cost": {
+          "input": 0,
+          "output": 0,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "total": 0
+        }
+      },
+      "assistantMessageEvent": {
+        "type": "text_start",
+        "contentIndex": 0
+      }
+    },
+    {
+      "type": "message_update",
+      "usage": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "totalTokens": 0,
+        "cost": {
+          "input": 0,
+          "output": 0,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "total": 0
+        }
+      },
+      "assistantMessageEvent": {
+        "type": "text_delta",
+        "contentIndex": 0,
+        "delta": "Hello"
+      }
+    },
+    {
+      "type": "message_update",
+      "usage": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "totalTokens": 0,
+        "cost": {
+          "input": 0,
+          "output": 0,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "total": 0
+        }
+      },
+      "assistantMessageEvent": {
+        "type": "text_delta",
+        "contentIndex": 0,
+        "delta": " from"
+      }
+    },
+    {
+      "type": "message_update",
+      "usage": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "totalTokens": 0,
+        "cost": {
+          "input": 0,
+          "output": 0,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "total": 0
+        }
+      },
+      "assistantMessageEvent": {
+        "type": "text_delta",
+        "contentIndex": 0,
+        "delta": " Pi"
+      }
+    },
+    {
+      "type": "message_update",
+      "usage": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "totalTokens": 0,
+        "cost": {
+          "input": 0,
+          "output": 0,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "total": 0
+        }
+      },
+      "assistantMessageEvent": {
+        "type": "text_delta",
+        "contentIndex": 0,
+        "delta": " Coding"
+      }
+    },
+    {
+      "type": "message_update",
+      "usage": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "totalTokens": 0,
+        "cost": {
+          "input": 0,
+          "output": 0,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "total": 0
+        }
+      },
+      "assistantMessageEvent": {
+        "type": "text_delta",
+        "contentIndex": 0,
+        "delta": " Agent"
+      }
+    },
+    {
+      "type": "message_update",
+      "usage": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "totalTokens": 0,
+        "cost": {
+          "input": 0,
+          "output": 0,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "total": 0
+        }
+      },
+      "assistantMessageEvent": {
+        "type": "text_delta",
+        "contentIndex": 0,
+        "delta": " and"
+      }
+    },
+    {
+      "type": "message_update",
+      "usage": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "totalTokens": 0,
+        "cost": {
+          "input": 0,
+          "output": 0,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "total": 0
+        }
+      },
+      "assistantMessageEvent": {
+        "type": "text_delta",
+        "contentIndex": 0,
+        "delta": " O"
+      }
+    },
+    {
+      "type": "message_update",
+      "usage": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "totalTokens": 0,
+        "cost": {
+          "input": 0,
+          "output": 0,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "total": 0
+        }
+      },
+      "assistantMessageEvent": {
+        "type": "text_delta",
+        "contentIndex": 0,
+        "delta": "ll"
+      }
+    },
+    {
+      "type": "message_update",
+      "usage": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "totalTokens": 0,
+        "cost": {
+          "input": 0,
+          "output": 0,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "total": 0
+        }
+      },
+      "assistantMessageEvent": {
+        "type": "text_delta",
+        "contentIndex": 0,
+        "delta": "ama"
+      }
+    },
+    {
+      "type": "message_update",
+      "usage": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "totalTokens": 0,
+        "cost": {
+          "input": 0,
+          "output": 0,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "total": 0
+        }
+      },
+      "assistantMessageEvent": {
+        "type": "text_delta",
+        "contentIndex": 0,
+        "delta": "!"
+      }
+    },
+    {
+      "type": "message_update",
+      "usage": {
+        "input": 489,
+        "output": 11,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "reasoning": 0,
+        "totalTokens": 500,
+        "cost": {
+          "input": 0,
+          "output": 0,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "total": 0
+        }
+      },
+      "assistantMessageEvent": {
+        "type": "text_end",
+        "contentIndex": 0,
+        "content": "Hello from Pi Coding Agent and Ollama!"
+      }
+    },
+    {
+      "type": "message_end",
+      "message": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "Hello from Pi Coding Agent and Ollama!"
+          }
+        ],
+        "api": "openai-completions",
+        "provider": "ollama",
+        "model": "llama3.2:3b",
+        "usage": {
+          "input": 489,
+          "output": 11,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "reasoning": 0,
+          "totalTokens": 500,
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0,
+            "total": 0
+          }
+        },
+        "stopReason": "stop",
+        "timestamp": 1791526931734,
+        "responseId": "chatcmpl-376",
+        "rawStopReason": "stop",
+        "durationMs": 31099,
+        "thinkingLevel": "off"
+      }
+    },
+    {
+      "type": "turn_end",
+      "message": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "Hello from Pi Coding Agent and Ollama!"
+          }
+        ],
+        "api": "openai-completions",
+        "provider": "ollama",
+        "model": "llama3.2:3b",
+        "usage": {
+          "input": 489,
+          "output": 11,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "reasoning": 0,
+          "totalTokens": 500,
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0,
+            "total": 0
+          }
+        },
+        "stopReason": "stop",
+        "timestamp": 1791526931734,
+        "responseId": "chatcmpl-376",
+        "rawStopReason": "stop",
+        "durationMs": 31099,
+        "thinkingLevel": "off"
+      },
+      "toolResults": []
+    }
+  ],
+  "stderr_diagnostics": []
+}

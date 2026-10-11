@@ -1,0 +1,10 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-10-10T11:21:03+05:30
+Prompt: Check live test status again
+Early Termination: 27bffd55-9336-4815-8b29-47ff7112850f/task-2443
+
+[2026-10-10T11:20:28+05:30] Still waiting. Remaining time: 35s
+[2026-10-10T11:20:38+05:30] Still waiting. Remaining time: 25s
+[2026-10-10T11:20:48+05:30] Still waiting. Remaining time: 15s
+[2026-10-10T11:20:58+05:30] Still waiting. Remaining time: 5s
+[2026-10-10T11:21:03+05:30] Timer fired.

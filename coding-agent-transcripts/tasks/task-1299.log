@@ -1,0 +1,25 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "D:\Projects\oogway labs\backend\main.py", line 16, in <module>
+    from fastapi import FastAPI, Depends, HTTPException, Query, status
+  File "D:\Projects\oogway labs\backend\.venv\Lib\site-packages\fastapi\__init__.py", line 7, in <module>
+    from .applications import FastAPI as FastAPI
+  File "D:\Projects\oogway labs\backend\.venv\Lib\site-packages\fastapi\applications.py", line 7, in <module>
+    from fastapi import routing
+  File "D:\Projects\oogway labs\backend\.venv\Lib\site-packages\fastapi\routing.py", line 45, in <module>
+    from fastapi import params
+  File "D:\Projects\oogway labs\backend\.venv\Lib\site-packages\fastapi\params.py", line 7, in <module>
+    from fastapi.exceptions import FastAPIDeprecationWarning
+  File "D:\Projects\oogway labs\backend\.venv\Lib\site-packages\fastapi\exceptions.py", line 5, in <module>
+    from pydantic import BaseModel, create_model
+  File "D:\Projects\oogway labs\backend\.venv\Lib\site-packages\pydantic\__init__.py", line 5, in <module>
+    from ._migration import getattr_migration
+  File "D:\Projects\oogway labs\backend\.venv\Lib\site-packages\pydantic\_migration.py", line 5, in <module>
+    from pydantic.warnings import PydanticDeprecatedSince20
+  File "D:\Projects\oogway labs\backend\.venv\Lib\site-packages\pydantic\warnings.py", line 5, in <module>
+    from .version import version_short
+  File "D:\Projects\oogway labs\backend\.venv\Lib\site-packages\pydantic\version.py", line 7, in <module>
+    from pydantic_core import __version__ as __pydantic_core_version__
+  File "D:\Projects\oogway labs\backend\.venv\Lib\site-packages\pydantic_core\__init__.py", line 8, in <module>
+    from ._pydantic_core import (
+ImportError: DLL load failed while importing _pydantic_core: An Application Control policy has blocked this file.

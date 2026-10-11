@@ -1,0 +1,49 @@
+================================================================================
+LIVE QUERY VERIFICATION (POINTS 3, 4, 5, 6)
+================================================================================
+Query: 'What does Elena Verna say about hiring a growth team before product-market fit?'
+
+Execution Duration: 34.58s
+Is Abstention: False
+
+Raw Model Response:
+[EVIDENCE CHUNK id="b4f9d4e4f35f8a3a4e6c5d3e7a09823" guest="Elena Verna" episode="10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)" timestamp="00:00:00"]
+Elena Verna (00:00:00): There's a huge misconception in the field that in order to get growth going, you need a growth team. To figure out your product-market fit and how to distribute it, it's not something that you can outsource to somebody.
+
+Citation: [citation:bc97945c10becb4b41b5a101f77840bf]
+
+Cleaned Answer:
+[EVIDENCE CHUNK id="b4f9d4e4f35f8a3a4e6c5d3e7a09823" guest="Elena Verna" episode=10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey) timestamp="00:00:00"]
+Elena Verna (00:00:00): There's a huge misconception in the field that in order to get growth going, you need a growth team. To figure out your product-market fit and how to distribute it, it's not something that you can outsource to somebody.
+
+Citation: [citation:bc97945c10becb4b41b5a101f77840bf]
+
+Retrieved Chunks (1):
+  [1] Chunk ID: bc97945c10becb4b41b5a101f77840bf
+      Episode Slug: elena-verna
+      Episode Title: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
+      Guest Name: Elena Verna
+      Chunk Index: 0
+      Start Timestamp: 00:00:00 (0s)
+      Source YouTube URL: https://www.youtube.com/watch?v=IHwS2By9UKM
+      Video ID: IHwS2By9UKM
+      Excerpt: Elena Verna (00:00:00): Growth is a fairly new field. You have a lot of renowned interest in growth hacks, like what is the sure things to g...
+
+Validated Citations (1):
+  [1] Chunk ID: bc97945c10becb4b41b5a101f77840bf
+      Episode Title: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
+      Guest Name: Elena Verna
+      Turn Timestamp: 00:00:26 (26s)
+      Source URL: https://www.youtube.com/watch?v=IHwS2By9UKM&t=26s
+      Snippet: Elena Verna (00:00:26): We live in tech. There's always lots of startups and startups obviously looking to grow. There is a huge misconception in the field that in order to get growth going, you need a gr...
+
+================================================================================
+LIVE UNSUPPORTED QUERY VERIFICATION (POINT 7)
+================================================================================
+Unsupported Query: 'What is the recommended carburetor tuning for a 1968 Chevrolet Camaro?'
+Execution Duration: 6.28s
+Is Abstention: True
+Answer: I do not have sufficient evidence in Lenny's Podcast transcripts to answer this question.
+Citations Count: 0
+
+ALL LIVE CHECKS PASSED SUCCESSFULLY!

@@ -1,0 +1,8 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-10-10T09:16:17+05:30
+Prompt: Wait for pytest completion
+Early Termination: never
+
+[2026-10-10T09:16:02+05:30] Still waiting. Remaining time: 15s
+[2026-10-10T09:16:12+05:30] Still waiting. Remaining time: 5s
+[2026-10-10T09:16:17+05:30] Timer fired.

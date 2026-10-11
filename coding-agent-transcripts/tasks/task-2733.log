@@ -1,0 +1,27 @@
+=== RUNNING THOROUGH QUESTION VERIFICATION ===
+
+--- Testing Topic: Pricing & Monetization ---
+Query: What are Madhavan Ramanujam's key rules for pricing products?
+Duration: 122.3s | is_abstention: False | citations: 1
+Response snippet: [MADHAVAN RAMANUJAM'S RULES FOR PRICINGProducts]
+
+According to [citation:1600b941224337e2b652431f93c53cc4], Madhavan Ramanujam's key rules for pricing products include:
+
+1. The thi...
+PASS: Grounded answer returned with 1 citations.
+  * Madhavan Ramanujam 2.0 - The art and science of pricing | Madhavan Ramanujam (Monetizing Innovation, Simon-Kucher) (https://www.youtube.com/watch?v=A6veeCbKIzw&t=1241s)
+
+--- Testing Topic: Out of corpus test ---
+Query: How do I repair an automatic transmission on a 1995 Honda Civic?
+Duration: 115.6s | is_abstention: True | citations: 0
+Response snippet: I do not have sufficient evidence in Lenny's Podcast transcripts to answer this question....
+PASS: Cleanly abstained on out-of-corpus question.
+
+=== TESTING ESSAY GENERATION ===
+Essay HTTP Status: 200 in 180.7s
+Essay Title: Product Pricing Frameworks And Willingness To Pay
+Word Count: 414
+Artifact ID: art-90b127422a61
+HTML length: 9040
+Citations: 1
+PASS: Essay generated successfully!

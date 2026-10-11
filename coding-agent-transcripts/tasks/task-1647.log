@@ -1,0 +1,6 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-10-10T09:15:36+05:30
+Prompt: Check pytest run completion
+Early Termination: never
+
+[2026-10-10T09:15:36+05:30] Timer fired.

@@ -1,0 +1,10 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-10-10T12:00:35+05:30
+Prompt: Check if essay generation in task-2733 finished
+Early Termination: 27bffd55-9336-4815-8b29-47ff7112850f/task-2733
+
+[2026-10-10T12:00:00+05:30] Still waiting. Remaining time: 35s
+[2026-10-10T12:00:10+05:30] Still waiting. Remaining time: 25s
+[2026-10-10T12:00:20+05:30] Still waiting. Remaining time: 15s
+[2026-10-10T12:00:30+05:30] Still waiting. Remaining time: 5s
+[2026-10-10T12:00:34+05:30] Timer cancelled: agent received a message during wait.

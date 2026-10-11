@@ -1,0 +1,9 @@
+npm error code ECONNRESET
+npm error syscall read
+npm error errno ECONNRESET
+npm error network request to https://registry.npmjs.org/@earendil-works%2fpi-coding-agent failed, reason: read ECONNRESET
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: C:\Users/developer/AppData\Local\npm-cache\_logs\2026-10-09T06_18_09_601Z-debug-0.log

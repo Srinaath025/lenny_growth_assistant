@@ -1,0 +1,7 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-10-10T10:05:06+05:30
+Prompt: Check download task-1770 status
+Early Termination: never
+
+[2026-10-10T10:05:01+05:30] Still waiting. Remaining time: 5s
+[2026-10-10T10:05:06+05:30] Timer fired.

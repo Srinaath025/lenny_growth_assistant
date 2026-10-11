@@ -1,0 +1,9 @@
+{
+  "name": "pi-rpc-poc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal proof of concept for Pi Coding Agent RPC mode with Ollama",
+  "dependencies": {
+    "@earendil-works/pi-coding-agent": "^1.1.0"
+  }
+}

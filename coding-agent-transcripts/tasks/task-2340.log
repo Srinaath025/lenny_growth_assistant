@@ -1,0 +1,56 @@
+============================= test session starts =============================
+platform win32 -- Python 3.11.3, pytest-9.1.1, pluggy-1.6.0
+rootdir: D:\Projects\oogway labs
+configfile: pytest.ini
+plugins: anyio-4.15.1, asyncio-1.4.0
+asyncio: mode=Mode.AUTO, debug=False, asyncio_default_fixture_loop_scope=session, asyncio_default_test_loop_scope=session
+collected 60 items
+
+backend\tests\test_agent.py ..........                                   [ 16%]
+backend\tests\test_agent_live_integration.py F                           [ 18%]
+backend\tests\test_api.py .......                                        [ 30%]
+backend\tests\test_chunker.py ....                                       [ 36%]
+backend\tests\test_cloud_provider.py .......                             [ 48%]
+backend\tests\test_db_connection.py ...                                  [ 53%]
+backend\tests\test_essay_skill.py .......                                [ 65%]
+backend\tests\test_ingestion_and_search.py .....                         [ 73%]
+backend\tests\test_parser.py .......                                     [ 85%]
+backend\tests\test_pi_client.py ...F                                     [ 91%]
+backend\tests\test_retrieval.py .....                                    [100%]
+
+================================== FAILURES ===================================
+_______________ test_live_agent_grounded_answer_and_abstention ________________
+
+    @pytest.mark.asyncio
+    async def test_live_agent_grounded_answer_and_abstention():
+        """Verify live end-to-end grounded retrieval, citation verification, and abstention."""
+        if not is_ollama_available():
+            pytest.skip("Ollama is offline or unreachable at http://localhost:11434")
+    
+        agent = GrowthAssistantAgent(retriever_limit=3)
+    
+        # 1. Grounded Question: Elena Verna on hiring a growth team before PMF
+        grounded_query = "What does Elena Verna say about hiring a growth team before product-market fit?"
+        ans1 = await agent.ask(grounded_query)
+    
+>       assert not ans1.is_abstention
+E       assert not True
+E        +  where True = GroundedAnswer(query='What does Elena Verna say about hiring a growth team before product-market fit?', answer="I do n...ers.', rank=0.006169547326862812)], citations=[], raw_model_response='', invalid_citations=[], duration_seconds=123.51).is_abstention
+
+backend\tests\test_agent_live_integration.py:34: AssertionError
+__________________ test_pi_client_raises_when_binary_missing __________________
+
+    @pytest.mark.asyncio
+    async def test_pi_client_raises_when_binary_missing():
+        """Verify clean error when CLI path does not exist."""
+        bad_config = PiAgentConfig(cli_path=Path("nonexistent/path/cli.js"))
+        client = PiAgentClient(bad_config)
+    
+>       with pytest.raises(PiRPCError, match="Pi CLI binary not found"):
+E       Failed: DID NOT RAISE PiRPCError
+
+backend\tests\test_pi_client.py:63: Failed
+=========================== short test summary info ===========================
+FAILED backend/tests/test_agent_live_integration.py::test_live_agent_grounded_answer_and_abstention
+FAILED backend/tests/test_pi_client.py::test_pi_client_raises_when_binary_missing
+================== 2 failed, 58 passed in 131.18s (0:02:11) ===================

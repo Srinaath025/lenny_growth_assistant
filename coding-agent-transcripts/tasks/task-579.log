@@ -1,0 +1,30 @@
+======================================================================
+LENNY GROWTH ASSISTANT - MILESTONE 4 LIVE DEMO
+======================================================================
+
+[DEMO 1] Asking Grounded Question:
+Query: "What does Elena Verna say about hiring a growth team before product-market fit?"
+Searching PostgreSQL FTS & prompting Pi Coding Agent (Ollama llama3.2:3b)...
+
+--- Grounded Result 1 (62.54s) ---
+Is Abstention: True
+Retrieved Chunks Count: 3
+Answer:
+I do not have sufficient evidence in Lenny's Podcast transcripts to answer this question.
+
+Verified Citations (0):
+
+======================================================================
+
+[DEMO 2] Asking Unsupported Question:
+Query: "How do I replace the timing belt on a 1968 Chevrolet Camaro V8 engine?"
+
+--- Grounded Result 2 (62.83s) ---
+Is Abstention: True
+Retrieved Chunks Count: 3
+Answer: I do not have sufficient evidence in Lenny's Podcast transcripts to answer this question.
+Citations: []
+
+======================================================================
+DEMO COMPLETE
+======================================================================

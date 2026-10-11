@@ -1,0 +1,8 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-10-10T11:54:20+05:30
+Prompt: Check diverse questions test status
+Early Termination: 27bffd55-9336-4815-8b29-47ff7112850f/task-2733
+
+[2026-10-10T11:54:00+05:30] Still waiting. Remaining time: 20s
+[2026-10-10T11:54:10+05:30] Still waiting. Remaining time: 10s
+[2026-10-10T11:54:20+05:30] Timer fired.

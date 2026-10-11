@@ -1,0 +1,13 @@
+============================= test session starts =============================
+platform win32 -- Python 3.11.3, pytest-9.1.1, pluggy-1.6.0 -- D:\Projects\oogway labs\backend\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: D:\Projects\oogway labs
+plugins: asyncio-1.4.0
+asyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+collecting ... collected 3 items
+
+backend/tests/test_db_connection.py::test_dependency_imports PASSED      [ 33%]
+backend/tests/test_db_connection.py::test_asyncpg_direct_connection PASSED [ 66%]
+backend/tests/test_db_connection.py::test_sqlalchemy_async_engine PASSED [100%]
+
+============================= 3 passed in 14.45s ==============================

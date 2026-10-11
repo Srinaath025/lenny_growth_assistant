@@ -1,0 +1,28 @@
+
+# Database & OS
+# Environment & Secrets
+# Node
+# Python
+*$py.class
+*.db
+*.egg-info/
+*.env.local
+*.py[cod]
+*.so
+*.sqlite3
+.DS_Store
+.Python
+.env
+.pytest_cache/
+.venv/
+ENV/
+Thumbs.db
+__pycache__/
+backend/.venv/
+env/
+frontend/dist/
+node_modules/
+npm-debug.log*
+venv/
+yarn-debug.log*
+yarn-error.log*

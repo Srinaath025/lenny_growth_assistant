@@ -1,0 +1,8 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-10-10T10:19:30+05:30
+Prompt: Check live integration test completion
+Early Termination: never
+
+[2026-10-10T10:19:10+05:30] Still waiting. Remaining time: 20s
+[2026-10-10T10:19:20+05:30] Still waiting. Remaining time: 10s
+[2026-10-10T10:19:30+05:30] Timer fired.

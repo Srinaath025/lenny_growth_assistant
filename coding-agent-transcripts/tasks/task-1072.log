@@ -1,0 +1,12 @@
+============================= test session starts =============================
+platform win32 -- Python 3.11.3, pytest-9.1.1, pluggy-1.6.0 -- D:\Projects\oogway labs\backend\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: D:\Projects\oogway labs
+configfile: pytest.ini
+plugins: asyncio-1.4.0
+asyncio: mode=Mode.AUTO, debug=False, asyncio_default_fixture_loop_scope=session, asyncio_default_test_loop_scope=session
+collecting ... collected 1 item
+
+backend/tests/test_agent_live_integration.py::test_live_agent_grounded_answer_and_abstention PASSED
+
+======================== 1 passed in 82.57s (0:01:22) =========================

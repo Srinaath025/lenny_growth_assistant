@@ -1,0 +1,62 @@
+psql : The term 'psql' is not recognized as the name of a cmdlet, function, script file, or operable program. Check 
+the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ psql --version; where.exe psql; Get-Service -Name "*postgres*" -Error ...
++ ~~~~
+    + CategoryInfo          : ObjectNotFound: (psql:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+INFO: Could not find files for the given pattern(s).
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  postgresql-x64-18  postgresql-x64-18 - PostgreSQL Serv...
+
+ComputerName             : localhost
+RemoteAddress            : ::1
+ResolvedAddresses        : {::1, 127.0.0.1}
+PingSucceeded            : False
+PingReplyDetails         : 
+TcpClientSocket          : 
+TcpTestSucceeded         : True
+RemotePort               : 5432
+TraceRoute               : 
+Detailed                 : True
+InterfaceAlias           : Loopback Pseudo-Interface 1
+InterfaceIndex           : 1
+InterfaceDescription     : 
+NetAdapter               : 
+NetRoute                 : MSFT_NetRoute (InstanceID = "DD;9;?B55;55DD55;")
+SourceAddress            : ::1
+NameResolutionSucceeded  : True
+BasicNameResolution      : {Microsoft.DnsClient.Commands.DnsRecord_AAAA, Microsoft.DnsClient.Commands.DnsRecord_A}
+LLMNRNetbiosRecords      : {}
+DNSOnlyRecords           : {}
+AllNameResolutionResults : {Microsoft.DnsClient.Commands.DnsRecord_AAAA, Microsoft.DnsClient.Commands.DnsRecord_A}
+IsAdmin                  : False
+NetworkIsolationContext  : Loopback
+MatchingIPsecRules       : 
+
+
+Name   : C
+Used   : 150564679680
+Free   : 65212669952
+FreeGB : 60.73
+UsedGB : 140.22
+
+
+Name   : D
+Used   : 6536241152
+Free   : 155993034752
+FreeGB : 145.28
+UsedGB : 6.09
+
+
+Name   : E
+Used   : 101900288
+Free   : 130969047040
+FreeGB : 121.97
+UsedGB : 0.09
+
+
+

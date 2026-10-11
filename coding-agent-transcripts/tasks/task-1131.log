@@ -1,0 +1,49 @@
+============================= test session starts =============================
+platform win32 -- Python 3.11.3, pytest-9.1.1, pluggy-1.6.0 -- D:\Projects\oogway labs\backend\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: D:\Projects\oogway labs
+configfile: pytest.ini
+plugins: asyncio-1.4.0
+asyncio: mode=Mode.AUTO, debug=False, asyncio_default_fixture_loop_scope=session, asyncio_default_test_loop_scope=session
+collecting ... collected 38 items
+
+backend/tests/test_agent.py::test_prompt_construction_untrusted_delimiters PASSED [  2%]
+backend/tests/test_agent.py::test_citation_validator_accepts_valid_citations PASSED [  5%]
+backend/tests/test_agent.py::test_citation_validator_resolves_turn_level_timestamp PASSED [  7%]
+backend/tests/test_agent.py::test_citation_validator_sanitizes_unquoted_paraphrases PASSED [ 10%]
+backend/tests/test_agent.py::test_citation_validator_rejects_unretrieved_chunk_ids PASSED [ 13%]
+backend/tests/test_agent.py::test_citation_validator_detects_abstention PASSED [ 15%]
+backend/tests/test_agent.py::test_citation_validator_empty_chunks_forces_abstention PASSED [ 18%]
+backend/tests/test_agent.py::test_orchestrator_abstains_immediately_on_empty_retrieval PASSED [ 21%]
+backend/tests/test_agent.py::test_orchestrator_successful_grounded_answer PASSED [ 23%]
+backend/tests/test_agent.py::test_orchestrator_handles_rpc_failure PASSED [ 26%]
+backend/tests/test_chunker.py::test_deterministic_chunk_id PASSED        [ 28%]
+backend/tests/test_chunker.py::test_chunking_boundaries_and_metadata PASSED [ 31%]
+backend/tests/test_chunker.py::test_chunk_long_single_monologue PASSED   [ 34%]
+backend/tests/test_chunker.py::test_chunk_empty_turns PASSED             [ 36%]
+backend/tests/test_db_connection.py::test_dependency_imports PASSED      [ 39%]
+backend/tests/test_db_connection.py::test_asyncpg_direct_connection PASSED [ 42%]
+backend/tests/test_db_connection.py::test_sqlalchemy_async_engine PASSED [ 44%]
+backend/tests/test_ingestion_and_search.py::test_schema_and_gin_index_exist PASSED [ 47%]
+backend/tests/test_ingestion_and_search.py::test_repeatable_idempotent_ingestion PASSED [ 50%]
+backend/tests/test_ingestion_and_search.py::test_postgresql_fulltext_search_retrieval PASSED [ 52%]
+backend/tests/test_ingestion_and_search.py::test_empty_and_invalid_file_handling PASSED [ 55%]
+backend/tests/test_ingestion_and_search.py::test_database_error_handling_and_rollback PASSED [ 57%]
+backend/tests/test_parser.py::test_parse_timestamp_to_seconds PASSED     [ 60%]
+backend/tests/test_parser.py::test_extract_video_id PASSED               [ 63%]
+backend/tests/test_parser.py::test_parse_standard_transcript PASSED      [ 65%]
+backend/tests/test_parser.py::test_parse_mm_ss_format PASSED             [ 68%]
+backend/tests/test_parser.py::test_parse_malformed_yaml PASSED           [ 71%]
+backend/tests/test_parser.py::test_parse_no_frontmatter PASSED           [ 73%]
+backend/tests/test_parser.py::test_parse_empty_content PASSED            [ 76%]
+backend/tests/test_pi_client.py::test_pi_client_config_defaults PASSED   [ 78%]
+backend/tests/test_pi_client.py::test_pi_client_env_isolation PASSED     [ 81%]
+backend/tests/test_pi_client.py::test_pi_client_command_safety_flags PASSED [ 84%]
+backend/tests/test_pi_client.py::test_pi_client_raises_when_binary_missing PASSED [ 86%]
+backend/tests/test_retrieval.py::test_build_youtube_deep_link PASSED     [ 89%]
+backend/tests/test_retrieval.py::test_sanitize_fts_query PASSED          [ 92%]
+backend/tests/test_retrieval.py::test_retrieve_empty_and_short_queries PASSED [ 94%]
+backend/tests/test_retrieval.py::test_retrieve_relevant_chunks_real_db PASSED [ 97%]
+backend/tests/test_retrieval.py::test_retrieve_nonexistent_query PASSED  [100%]
+
+============================= 38 passed in 1.64s ==============================

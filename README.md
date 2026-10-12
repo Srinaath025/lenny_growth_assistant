@@ -18,7 +18,8 @@ Retrieval-grounded chat, **Ship 30 for 30** essays and sandboxed Markdown/HTML a
 Prerequisites: Docker, [Ollama](https://ollama.com) running on the host.
 ```bash
 ollama pull llama3.2:3b          # or any model, then set OLLAMA_MODEL in .env
-cp .env.example .env             # Windows: copy .env.example .env
+copy .env.example .env            #cp .env.example .env
+Turn on the docker desktop and turn on the Engine
 docker compose up --build
 ```
 Open http://localhost:3000. On first start the backend creates the schema and **auto-indexes `data/transcripts` (~15 s)**; the header badge shows progress and `/api/health` reports `ingestion.state`.
@@ -50,7 +51,7 @@ See `.env.example` (every variable documented). Key ones: `OLLAMA_MODEL`, `OLLAM
 ## Notes
 * The Pi coding-agent CLI requires **Node ≥ 22.19**; the backend image installs Node 22. With an older Node, Pi exits immediately and the backend automatically uses the Ollama HTTP fallback (slower to start, same answers).
 
-## Known limitations (honest)
+## Known limitations:
 * Retrieval is lexical (Postgres FTS), not semantic embeddings: paraphrased questions using none of the transcript's words can be missed. The gate trades recall for precision.
 * A 3B local model often under-writes essays; the repair loop retries twice and the UI shows the real word count if the target is still missed.
 * The gate cannot detect questions whose words *do* appear in a transcript by coincidence (e.g. "train for a marathon" matches an anecdote); layers 2–3 handle those.

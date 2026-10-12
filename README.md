@@ -15,7 +15,7 @@ Retrieval-grounded chat, **Ship 30 for 30** essays and sandboxed Markdown/HTML a
 | Observability | JSON logs with request IDs (`X-Request-ID`), structured errors `{error:{code,message,hint,request_id}}`, `/api/health` (DB, Ollama, model installed, cloud key, ingestion state). |
 
 ## Quick start (Docker — one command)
-Prerequisites: Docker, [Ollama](https://ollama.com) running on the host.
+Prerequisites: Docker, [Ollama](https://ollama.com) running on the host and need to add the api of llm's
 ```bash
 ollama pull llama3.2:3b          # or any model, then set OLLAMA_MODEL in .env
 copy .env.example .env            #cp .env.example .env
